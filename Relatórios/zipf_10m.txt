@@ -1,0 +1,3 @@
+Posição: 10  Palavra: para
+Posição: 100  Palavra: coisa
+Posição: 1000  Palavra: naquele
